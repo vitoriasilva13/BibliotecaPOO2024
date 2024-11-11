@@ -13,7 +13,7 @@ public class Livro {
     private boolean disponivel;
 
     /**
-     * Construtor da classe br.edu.ifg.Livro.
+     * Construtor da classe Livro.
      * Inicializa os atributos título, autor e ISBN do livro.
      * O livro é inicializado como disponível.
      * @param titulo título do livro
